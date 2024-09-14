@@ -7,7 +7,7 @@ My name is Hussain, I am a data analyst with experience using various data tools
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, workbooks, presentation slides, and dashboards created with SQL, Power BI, Tableau, Excel, Jupyter Notebook, RStudio, and PowerPoint. These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy for anyone to understand and make informed decisions.
 
 ## Table of Contents
-*[hii](https://github.com/hussainshamsu/Demo-file/main/README.md#Hi)
+*[hii](https://github.com/hussainshamsu/Demo-file/blob/main/README.md#hi)
 
 * [About](https://github.com)
   
