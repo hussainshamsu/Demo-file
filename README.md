@@ -7,10 +7,11 @@ My name is Hussain, I am a data analyst with experience using various data tools
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, workbooks, presentation slides, and dashboards created with SQL, Power BI, Tableau, Excel, Jupyter Notebook, RStudio, and PowerPoint. These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy for anyone to understand and make informed decisions.
 
 ## Table of Contents
+*[hii](https://github.com/hussainshamsu/Demo-file/edit/main/README.md#Hi)
 
-* [About](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/blob/main/README.md)
+* [About](https://github.com)
   
-* [Portfolio Projects](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO?tab=readme-ov-file#projects)
+* [Portfolio Projects](https://github.com)
   
    * Tableau
       * [Airline Loyalty Campaign and Churn Analysis](https://github.com/Seanxupoj/DATA-ANALYST-PORTFOLIO/tree/main/Airline%20Loyalty%20Campaign%20and%20Churn%20Analysis)
@@ -71,7 +72,7 @@ The skills showcased in this project are data importing, assaying, data cleaning
 [SQL (Advanced) Certification](https://www.hackerrank.com/certificates/8c34e417b6e2) (2024) (HackerRank)
 
 [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/dd4417e9561d77352eb579887da4dea7e4083ae9) (2023) (DataCamp)
-
+## Hi
 ## Education
 
 University of Delhi, Delhi, India: Bachelor's Degree in BSc(hons) Mathematics, 2020-23.
